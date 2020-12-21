@@ -1,2 +1,2 @@
-# arduino-workshop
-Basic Arduino Workshop taught by Student Branch's members at UTN 
+# Taller inicial de Arduino 
+Curso básico de Arduino dictado por la Rama Estudiantil de Universidad Tecnológica Nacional. 
